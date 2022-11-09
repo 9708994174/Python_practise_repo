@@ -1,0 +1,5 @@
+def mult(a,b):
+    rsm = a*b
+    return rsm
+x = mult(2,5)
+print(x)
