@@ -1,0 +1,5 @@
+tuple1= ("apple","orange","pineapple")
+list1=list(tuple1)
+list1.pop()
+tuple2=tuple(list1)
+print(tuple2)
